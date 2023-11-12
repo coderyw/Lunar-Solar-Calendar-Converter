@@ -1,3 +1,3 @@
-module github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar
+module github.com/coderyw/Lunar-Solar-Calendar-Converter/Go/lunarsolar
 
-go 1.15
+go 1.21
